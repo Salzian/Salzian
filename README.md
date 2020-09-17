@@ -10,7 +10,7 @@ I was looking into building my own website for some time now. Initially as a por
 
 Now I got a job without having to show a fancy portfolio and I'm just ding it for the sake of having a website.
 
-It's currently [very rough](salzian.de) and I'll open source it once it actually is worth showing it. Or never when React has finally broken my last bit of sanity.
+It's currently [very rough](https://salzian.de) and I'll open source it once it actually is worth showing it. Or never when React has finally broken my last bit of sanity.
 
 ### Alternate Universe  
   
