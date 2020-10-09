@@ -36,6 +36,6 @@ I've worked with Unity during my studies on hobby, university and even a commerc
 
 ## 📫 How to reach me: ...
 
-  - Discord: Salzian#0898
+  - Discord: Salzian#0001
   - Twitter: [@SaltySalzian](https://twitter.com/saltysalzian)
   - And my email address is over 👈 there
