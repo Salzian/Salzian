@@ -6,7 +6,7 @@ I'm Fabian, I make software and games and stuff.
 
 ### Alternate Universe  
   
-Alternate Universe is a FiveM server that I revived out of the ashes of a nasty revenge spree. It's containing multiple small project's like a Discord bot, a status page and the server software itself.
+Alternate Universe is a FiveM server that I revived out of the ashes of a nasty revenge spree. It's containing multiple small project's like a Discord bot, a backend, analytics and monitoring stack and the server software itself.
   
 ## 💬 Ask me about
 
