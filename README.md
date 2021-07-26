@@ -1,5 +1,7 @@
 # Hello, user!
 
+![Image of Fabian Fritzsche](https://avatars.githubusercontent.com/u/23481219?s=128)
+
 I'm Fabian, I make software and games and stuffs.
 
 ## What I usually work on
