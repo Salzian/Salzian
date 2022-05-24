@@ -20,5 +20,5 @@ out [that one tron game I bought a Steam license for and never used](https://sal
 
 ## 📫 How to reach me: ...
 
-- Discord: Salzian#3551
-- Twitter: [@salzian_dev](https://twitter.com/salzian_dev)
+Twitter: [@salzian_dev](https://twitter.com/salzian_dev)  
+[Email](mailto:github@salzian.dev)
