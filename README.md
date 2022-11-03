@@ -1,7 +1,5 @@
 # Hello, user!
 
-![Image of Fabian Fritzsche](https://avatars.githubusercontent.com/u/23481219?s=128)
-
 I'm Fabian. I make software and games and stuffs.
 
 ## What I usually work on
@@ -17,6 +15,11 @@ aggregating and delivering data to our GraphQL server.
 
 I've been working with Unity / C# since 2017. Check
 out [that one tron game I bought a Steam license for and never used](https://salzian.itch.io/lazerena).
+
+
+### 🔧 Rust
+
+I'm mostly building my private projects in Rust now to learn the language.
 
 ## 📫 How to reach me: ...
 
