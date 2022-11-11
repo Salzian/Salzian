@@ -20,7 +20,3 @@ out [that one tron game I bought a Steam license for and never used](https://sal
 ### 🔧 Rust
 
 I'm mostly building my private projects in Rust now to learn the language.
-
-## 📫 How to reach me: ...
-
-[Email](mailto:github@salzian.dev)
