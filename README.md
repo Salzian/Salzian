@@ -23,5 +23,4 @@ I'm mostly building my private projects in Rust now to learn the language.
 
 ## 📫 How to reach me: ...
 
-Twitter: [@salzian_dev](https://twitter.com/salzian_dev)  
 [Email](mailto:github@salzian.dev)
